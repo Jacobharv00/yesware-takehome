@@ -25,4 +25,4 @@ open index.html from terminal in root directory of folder. Or open index.html wi
 * Github: [@Jacobharv00](https://github.com/Jacobharv00)
 * LinkedIn: [@jacobharvey19](https://linkedin.com/in/jacobharvey19)
 
-# yesware-takehome
+
